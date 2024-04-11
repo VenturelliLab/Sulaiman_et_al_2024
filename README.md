@@ -1,2 +1,2 @@
-# Sulaiman_et_al_2023
+# Codes for parameter estimation in Sulaiman et al. 2024, "Elucidating human gut microbiota interactions that robustly inhibit diverse Clostridioides difficile strains across different nutrient landscapes"
 gLV parameter estimation for Cdiff communities 
