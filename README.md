@@ -26,8 +26,8 @@ Installation should take less than a minute to install all dependencies (numpy, 
 
 ## DEMO
 
-Follwoing successful installation, please see the tutorial Jupyter notebook, "GLOVE tutorial.ipynb" 
+Following successful installation, please see the tutorial Jupyter notebook, "GLOVE tutorial.ipynb" 
 
 ## Instructions for use
 
-The glove package is inteded for use with synthetic microbial community data to perform Bayesian parameter estimation and experimental design. Please refer to the tutorial for reference on data formatting guidelines and code execution. 
+The glove package is intended for use with synthetic microbial community data to perform Bayesian parameter estimation and experimental design. Please refer to the tutorial for reference on data formatting guidelines and code execution. 
