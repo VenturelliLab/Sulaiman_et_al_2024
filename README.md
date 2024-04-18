@@ -16,11 +16,13 @@ CPU: 4+ cores (base speed 2.3+ GHz).
 
 ## Installation Guide
 
-To install GLOVE, run in the terminal:
+We recommend installing the Anaconda Python distribution (https://www.anaconda.com/download)
+
+Once Python is installed, run the installation file for glove in the terminal:
 
 python setup.py install
 
-Installation should take less than a minute to install all dependencies. 
+Installation should take less than a minute to install all dependencies (numpy, pandas, jax, jaxlib)
 
 ## DEMO
 
