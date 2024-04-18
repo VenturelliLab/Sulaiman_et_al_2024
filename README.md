@@ -2,10 +2,10 @@
 
 ## Contents 
 
-- [System requirements](##System requirements)
-- [Installation guide]
-- [Demo]
-- [Instructions for use]
+- System requirements
+- Installation guide
+- Demo
+- Instructions for use
 
 ## System requirements 
 
