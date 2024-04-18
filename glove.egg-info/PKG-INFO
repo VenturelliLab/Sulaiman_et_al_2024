@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: glove
+Version: 0.1.0
+Summary: Generalized LOtka Volterra Estimator
+Author: Jaron Thompson
+License: MIT
+License-File: LICENSE

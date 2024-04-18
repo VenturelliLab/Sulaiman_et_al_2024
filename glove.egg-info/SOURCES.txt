@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+glove/__init__.py
+glove/model.py
+glove.egg-info/PKG-INFO
+glove.egg-info/SOURCES.txt
+glove.egg-info/dependency_links.txt
+glove.egg-info/requires.txt
+glove.egg-info/top_level.txt

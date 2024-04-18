@@ -541,21 +541,6 @@ class gLV:
 
         return np.array(output), np.array(stdv)
 
-    def get_params(self,):
-        # return expected value and standard deviation of model parameters
-
-        # reshape params to growth rates and interaction matrix
-        r = self.params[:self.n_s]
-        A = np.reshape(self.params[self.n_s:self.n_s + self.n_s ** 2], [self.n_s, self.n_s])
-
-        # parameter stdv
-        params_stdv = np.sqrt(np.diag(self.Ainv))
-
-        r_stdv = params_stdv[:self.n_s]
-        A_stdv = np.reshape(params_stdv[self.n_s:self.n_s + self.n_s ** 2], [self.n_s, self.n_s])
-
-        return r, A, r_stdv, A_stdv
-
     def design(self, df_design, N, batch_size=512, Ainv_q=None):
         # process dataframe
         if self.verbose:
